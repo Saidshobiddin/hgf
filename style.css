@@ -1,0 +1,10 @@
+.box{
+    width: 400px;
+    height: 400px;
+    overflow: hidden;
+    transition: 0.5 linear;
+
+}
+.img:hover{
+    transform: scale(1.2);
+}
